@@ -7,7 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "omermetin@hotmail.co.uk",
   "license": "ISC",
-  "description": "nodejs_eshop_tutorial"
+  "description": "nodejs_eshop_tutorial",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/omermetin/e-shop.git"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.15.4",
+    "express-ejs-layouts": "^2.5.0"
+  }
 }
